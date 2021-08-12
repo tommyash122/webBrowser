@@ -39,7 +39,7 @@ public class controller implements Initializable{
 
 	public void loadPage()
 	{
-		//engine.load("http://ww.google.com");
+		//engine.load("http://www.google.com");
 		engine.load("http://" + myTextField.getText());
 
 
